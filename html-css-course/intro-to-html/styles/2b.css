@@ -1,0 +1,16 @@
+.Amazon-button{
+  background-color : rgb(255,216,20);
+  border-color: white;
+  border-radius: 18px;
+  border-style: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 65px;
+  padding-right: 65px;
+  cursor: pointer;
+  font-size: 15px;
+  
+  }
+  .Amazon-button:hover{
+    background-color:rgb(255, 210, 0);
+  }

@@ -1,0 +1,184 @@
+.Tahoma{
+    font-family: Tahoma;
+    margin-right: 30px;
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  .Deals{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 0px;
+  }
+
+  .Sales{
+    margin-top: 5px;
+    margin-bottom: 100px;
+    color: red;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Arial;
+    line-height: 30px;
+
+  }
+
+  .Course{
+    font-family: Verdana;
+    font-weight: bold;
+    width: 200px;
+    font-size: 18px;
+    line-height: 23px;
+  }
+
+  .Beginner{
+    font-weight: normal;
+    color: grey;
+    font-size: 16px;
+  }
+
+  .Skills{
+    font-family: Verdana;
+    width: 300px;
+    margin-bottom: 23px;
+  }
+
+  .Started{
+    font-family: Verdana;
+    background-color: green;
+    color: white;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    cursor: pointer;
+    width:110px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 50px;
+  }
+
+  .Shop{
+    font-family: Arial;
+    font-weight: Bold;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .work{
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+   
+  }
+  .Learn{
+    font-family: Arial;
+    text-align: center;
+    color: rgb(48, 48, 208);
+    font-size: 15px;
+    cursor: pointer;
+    margin-bottom: 50px;
+  }
+
+  .New{
+    text-align: center;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(255, 166, 0);
+    margin-bottom: 10px;
+  }
+
+  .Macbook{
+    margin-top: 0px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0px;
+  }
+
+  .Super{
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 5px;
+  }
+  
+  .Dollar{
+    margin-top: 10px;
+    text-align: center;
+    font-family: Arial;
+  }
+
+  .Buy{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(26, 88, 246);
+    color: white;
+    border: none;
+    cursor: pointer;
+    
+  }
+
+  .Ticker-price{
+    font-family: Arial;
+    font-size: 40px;
+    margin-bottom: 5px;
+  }
+
+  .Ticker-symbol{
+    font-family: Arial;
+    font-size: 15px;
+    color: grey;
+  }
+
+  .Green-ticker{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: green;
+    
+
+  }
+
+  .Grey-ticker{
+    margin-top: 0px;
+    margin-bottom: 40px;
+    font-family: Arial;
+    color: grey;
+  }
+  .Red-Ticker{
+    color: red;
+  }
+
+  .black-codeCamp{
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .grey-codeCamp{
+    color:grey;
+    font-weight: normal;
+  }
+
+  .web-p{
+    margin-top: 0px;
+    font-family: Arial;
+    margin-bottom: 10px;
+    width:500px
+  }
+  .Here{
+    font-family: Arial;
+  }
+
+  .tag{
+    color: rgb(49, 138, 210);;
+  }
